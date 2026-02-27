@@ -94,7 +94,7 @@ class Player:
         self.update_rect()
         self.collision(powerup, balls)
         self.powerup_active(powerup)
-6        self.draw(screen)
+        self.draw(screen)
 
 
 class Ball:
@@ -257,3 +257,4 @@ while running:
     pygame.display.flip()
 
 pygame.quit()
+
