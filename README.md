@@ -56,12 +56,12 @@ The objective was not only to build a playable game, but to design a system wher
 
 ## How to Run
 
-1. Install Python 3.x
+1. Install Python 3.11
 2. Install Pygame:
 ```
 pip install pygame
 ```
 3. Run the game:
 ```
-python brick_breaker.py
+python BRICK BREAKER.py
 ```
